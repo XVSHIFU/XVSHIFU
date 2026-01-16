@@ -32,8 +32,7 @@
 
 ## 📊 GitHub 数据统计
 
-<!-- metrics 基础资料：前提是仓库里存在 /github-metrics.svg 文件 -->
-<img src="/github-metrics.svg" />
+
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
