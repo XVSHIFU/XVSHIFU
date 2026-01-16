@@ -3,7 +3,7 @@
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding. gif" />
-    <source media="(prefers-color-scheme:  light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
@@ -20,7 +20,7 @@
 <picture>
   <source media="(prefers-color-scheme:  dark)" srcset="https://raw.githubusercontent.com/XVSHIFU/XVSHIFU/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XVSHIFU/XVSHIFU/output/github-contribution-grid-snake. svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XVSHIFU/XVSHIFU/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XVSHIFU/XVSHIFU/output/github-contribution-grid-snake. svg">
 </picture>
 
 </div>
@@ -29,7 +29,7 @@
 
 <!-- GitHub 数据统计 -->
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XVSHIFU&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? username=XVSHIFU&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XVSHIFU&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
@@ -44,8 +44,8 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel. app/graph?username=XVSHIFU&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XVSHIFU&theme=xcode" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph? username=XVSHIFU&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel. app/graph?username=XVSHIFU&theme=xcode" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=XVSHIFU&theme=tokyo-night" />
       </picture>
     </td>
@@ -54,7 +54,7 @@
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme:  dark)" srcset="https://github-profile-3d-contrib.vercel.app/profile? username=XVSHIFU&theme=nord" />
+  <source media="(prefers-color-scheme:  dark)" srcset="https://github-profile-3d-contrib. vercel.app/profile? username=XVSHIFU&theme=nord" />
   <source media="(prefers-color-scheme:  light)" srcset="https://github-profile-3d-contrib. vercel.app/profile?username=XVSHIFU&theme=nord" />
   <img src="https://github-profile-3d-contrib.vercel.app/profile?username=XVSHIFU&theme=nord" />
 </picture>
