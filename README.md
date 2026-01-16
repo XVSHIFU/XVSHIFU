@@ -7,15 +7,7 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-    <!-- Typing SVG 打字特效 -->
-  <!-- 英文版 -->
-  <!--
   ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+XVSHIFU;A+passionate+developer;Love+coding%2C+reading%2C+fitness%2C+traveling;Welcome+to+my+GitHub+profile!)
-  -->
-
-  <!-- 中文版（推荐你先试这个，如果显示有问题再换英文） -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=嗨%2C+我是+XVSHIFU;热爱编程%2C+读书%2C+健身%2C+旅行;欢迎来到我的+GitHub+主页)
-
 
   
   <!-- for beauty 留个空行好看点 -->
