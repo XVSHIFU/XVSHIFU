@@ -11,7 +11,7 @@ on:
   # run on every push on the master/main branch
   push:
     branches:
-      - master
+      - main
       # 如果你的默认分支叫 main，就把上面一行改成 - main
 
 jobs:
