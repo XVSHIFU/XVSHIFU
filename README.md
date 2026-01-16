@@ -7,7 +7,7 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+XVSHIFU;A+passionate+developer;Love+coding%2C+reading%2C+fitness%2C+traveling;Welcome+to+my+GitHub+profile!)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&width=435&lines=%E5%97%A8%2C+%E6%88%91%E6%98%AF+XVSHIFU++%5E_%5E+;Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
 
   
   <!-- for beauty 留个空行好看点 -->
