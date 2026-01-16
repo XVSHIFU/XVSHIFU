@@ -28,18 +28,7 @@
 
 # 🙋 Hello
 
-## 🏢 Work Experience
 
-<!-- 根据你自己的情况修改，没有可以删掉整个 Work Experience 块 -->
-
-- 公司 / 学校信息示例（自己替换）
-  - 工作岗位：xxx
-  - 工作内容：xxx
-
-<div>&nbsp;</div>
-
-</td></tr>
-</table>
 
 ## 📊 GitHub 数据统计
 
@@ -52,11 +41,7 @@
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XVSHIFU&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000000&icon_color=ffffff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=XVSHIFU&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=XVSHIFU&theme=dark&hide_border=true" />
-</picture>
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
