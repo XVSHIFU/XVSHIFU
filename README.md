@@ -35,13 +35,6 @@
 <!-- metrics 基础资料：前提是仓库里存在 /github-metrics.svg 文件 -->
 <img src="/github-metrics.svg" />
 
-<!-- GitHub 数据统计：这里修正了 URL 参数，注意每一项之间用 & 连接 -->
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XVSHIFU&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000000&icon_color=000000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XVSHIFU&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000000&icon_color=ffffff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
