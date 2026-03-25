@@ -19,13 +19,15 @@
     <img src="https://komarev.com/ghpvc/?username=XVSHIFU&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-  ![My GitHub Game](game.gif)
+
 
 </div>
 
 # 🙋 Hello
 
+## 🚀 我的 GitHub 战场
 
+![My GitHub Game](game.gif)
 
 ## 📊 GitHub 数据统计
 
