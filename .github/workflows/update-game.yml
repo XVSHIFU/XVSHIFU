@@ -20,7 +20,7 @@ jobs:
       - name: Generate Space Shooter Game
         uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.METRICS_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           username: 'XVSHIFU'      # 你的用户名
           output-path: 'game.gif'  # 生成的文件名
           strategy: 'random'       # 攻击模式：random, column, 或 row
