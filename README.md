@@ -27,7 +27,8 @@
 
 ## 🚀 我的 GitHub 战场
 
-![My GitHub Game](game.gif)
+![XVSHIFU-space-shooter](https://github.com/user-attachments/assets/ae938d1b-8c13-4621-b93a-c74f1f1db85c)
+
 
 ## 📊 GitHub 数据统计
 
