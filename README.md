@@ -19,13 +19,7 @@
     <img src="https://komarev.com/ghpvc/?username=XVSHIFU&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <!-- 注意：这三条链接需要你先在仓库中配置 workflow 生成对应文件，下面第 2 节会说明 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XVSHIFU/XVSHIFU/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XVSHIFU/XVSHIFU/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XVSHIFU/XVSHIFU/output/github-contribution-grid-snake.svg">
-  </picture>
+  ![My GitHub Game](game.gif)
 
 </div>
 
