@@ -28,23 +28,3 @@
 ## 🚀 我的 GitHub 战场
 
 ![XVSHIFU-space-shooter](https://github.com/user-attachments/assets/ae938d1b-8c13-4621-b93a-c74f1f1db85c)
-
-
-## 📊 GitHub 数据统计
-
-
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=XVSHIFU&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XVSHIFU&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=XVSHIFU&theme=tokyo-night" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
