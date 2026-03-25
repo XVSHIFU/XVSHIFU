@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 0 * * *'  # 每天 UTC 时间凌晨 0 点（北京时间上午 8 点）自动更新
+  workflow_dispatch:      # 允许手动触发执行
 
 permissions:
   contents: write
@@ -12,12 +12,26 @@ jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout Repository
+        uses: actions/checkout@v6
         with:
-          fetch-depth: 2  # This is crucial!
+          fetch-depth: 2  # 必须设置为 2 以支持 v2 版本的自动覆盖提交
 
-      - uses: czl9707/gh-space-shooter@v2
+      - name: Generate Space Shooter Game
+        uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
+          github-token: ${{ secrets.METRICS_TOKEN }}
+          username: 'XVSHIFU'      # 你的用户名
+          output-path: 'game.gif'  # 生成的文件名
+          strategy: 'random'       # 攻击模式：random, column, 或 row
+          no-amend: false          # 设置为 false 会覆盖旧提交，保持 Commit 历史整洁
+
+      - name: Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add game.gif
+          # 如果使用了 no-amend: false，上面的 Action 可能已经处理了提交
+          # 这里做一个保险检查
+          git diff-index --quiet HEAD || git commit -m "Update GitHub Space Shooter Game"
+          git push
